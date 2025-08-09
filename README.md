@@ -1,1 +1,1 @@
-# NewsGraph
+# NewsChainGraph
